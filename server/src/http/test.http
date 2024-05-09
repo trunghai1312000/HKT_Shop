@@ -1,12 +1,18 @@
-@url_dev=http://localhost:3456/v1/api/
+@url_dev=http://localhost:3456/v1/api
 
 ### Create Team
-POST {{url_dev}}/team/create
+POST {{url_dev}}/product/create
 Content-Type: application/json
 
 {
-    "name":"Brazil",
-    "type":"National Team"
+    "name":"Áo tuyển Scotland phiên bản kỷ niệm năm 2023",
+    "description":"",
+    "price": 300000,
+    "images": [
+        "National/Scotland/Scotland_23_Other.png"
+    ],
+    "quantity": 10,
+    "team": "a8bd06e7-ebce-4680-96b3-016b4f6d983f"
 } 
 
 ### Get One Team

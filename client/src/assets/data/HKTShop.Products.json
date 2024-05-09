@@ -1,0 +1,271 @@
+[{
+  "name": "Áo AC Milan sân nhà mùa giải 98-99",
+  "description": "",
+  "price": 300000,
+  "images": [
+    "Club/AC/AC_98-99_Home.JPG"
+  ],
+  "quantity": 10,
+  "team": "574856de-4ff8-4ab1-859a-c421a91f03a7"
+},
+{
+  "name": "Áo AC Milan sân nhà mùa giải 09-10",
+  "description": "",
+  "price": 300000,
+  "images": [
+    "Club/AC/AC_09-10_Home.JPG"
+  ],
+  "quantity": 10,
+  "team": "574856de-4ff8-4ab1-859a-c421a91f03a7"
+},
+{
+  "name": "Áo AC Milan sân nhà mùa giải 13-14",
+  "description": "",
+  "price": 300000,
+  "images": [
+    "Club/AC/AC_13-14_Home.JPG"
+  ],
+  "quantity": 10,
+  "team": "574856de-4ff8-4ab1-859a-c421a91f03a7"
+},
+{
+  "name": "Áo Arsenal sân nhà mùa giải 02-04",
+  "description": "",
+  "price": 300000,
+  "images": [
+    "Club/Arsenal/Arsenal_0204_Home.jpeg"
+  ],
+  "quantity": 10,
+  "team": "6d61fbab-447c-4a2f-9ac6-e27def2fabad"
+},
+{
+  "name": "Áo Barcelona sân nhà mùa giải 15-16",
+  "description": "",
+  "price": 300000,
+  "images": [
+    "Club/Barcelona/Bacra_15-16_Home.JPG"
+  ],
+  "quantity": 10,
+  "team": "606ee585-0a14-4267-b581-b33532ea9fd8"
+},
+{
+  "name": "Áo Chelsea sân nhà mùa giải 12-13",
+  "description": "",
+  "price": 300000,
+  "images": [
+    "Club/Chelsea/Chelsea_12-13_Home.png"
+  ],
+  "quantity": 10,
+  "team": "0e997515-4a64-4e66-acfa-eeeb3d64c953"
+},
+{
+  "name": "Áo Inter Milan sân nhà mùa giải 10-11",
+  "description": "",
+  "price": 300000,
+  "images": [
+    "Club/Inter/inter_10-11_Home.JPG"
+  ],
+  "quantity": 10,
+  "team": "76a779dc-ccbd-4a6c-a16d-92877bc68c41"
+},
+{
+  "name": "Áo Liverpool sân khách mùa giải 99-00",
+  "description": "",
+  "price": 300000,
+  "images": [
+    "Club/Liverpool/Liver_99-00_away.JPG"
+  ],
+  "quantity": 10,
+  "team": "1e51d7c7-a1db-422e-b1ba-6d76172f50c9"
+},
+{
+  "name": "Áo Liverpool sân khách mùa giải 93-95",
+  "description": "",
+  "price": 300000,
+  "images": [
+    "Club/Liverpool/Liverpool_9395_Away.jpeg"
+  ],
+  "quantity": 10,
+  "team": "1e51d7c7-a1db-422e-b1ba-6d76172f50c9"
+},
+{
+  "name": "Áo Liverpool sân nhà mùa giải 93-95",
+  "description": "",
+  "price": 300000,
+  "images": [
+    "Club/Liverpool/Liverpool_9395_Home.jpeg"
+  ],
+  "quantity": 10,
+  "team": "1e51d7c7-a1db-422e-b1ba-6d76172f50c9"
+},
+{
+  "name": "Áo Manchester City sân nhà mùa giải 14-15",
+  "description": "",
+  "price": 300000,
+  "images": [
+    "Club/MC/MC_14-15_Home.png"
+  ],
+  "quantity": 10,
+  "team": "ea603d00-eaa6-4e96-81b0-92621a2aad53"
+},
+{
+  "name": "Áo Manchester City sân khách mùa giải 97-98",
+  "description": "",
+  "price": 300000,
+  "images": [
+    "Club/MC/MC_97-98_Away.JPG"
+  ],
+  "quantity": 10,
+  "team": "ea603d00-eaa6-4e96-81b0-92621a2aad53"
+},
+{
+  "name": "Áo Manchester United sân nhà mùa giải 13-14",
+  "description": "",
+  "price": 300000,
+  "images": [
+    "Club/MU/MU_13-14_Home.JPG"
+  ],
+  "quantity": 10,
+  "team": "ee8ff018-eb33-45cb-9174-d203dc2875c4"
+},
+{
+  "name": "Áo Manchester United sân khách mùa giải 07-08",
+  "description": "",
+  "price": 300000,
+  "images": [
+    "Club/MU/MU_07-08_Away.JPG"
+  ],
+  "quantity": 10,
+  "team": "ee8ff018-eb33-45cb-9174-d203dc2875c4"
+},
+{
+  "name": "Áo Manchester United sân khách mùa giải 96-97",
+  "description": "",
+  "price": 300000,
+  "images": [
+    "Club/MU/MU_96-97_away.JPG"
+  ],
+  "quantity": 10,
+  "team": "ee8ff018-eb33-45cb-9174-d203dc2875c4"
+},
+{
+  "name": "Áo Real Madrid sân khách mùa giải 01-02",
+  "description": "",
+  "price": 300000,
+  "images": [
+    "Club/Real/real_01-02_away.JPG"
+  ],
+  "quantity": 10,
+  "team": "e7059411-8710-4daa-9f8e-feefcb5efa72"
+},
+{
+  "name": "Áo Real Madrid sân nhà mùa giải 08-09",
+  "description": "",
+  "price": 300000,
+  "images": [
+    "Club/Real/REAL_08-09_Home.JPG"
+  ],
+  "quantity": 10,
+  "team": "e7059411-8710-4daa-9f8e-feefcb5efa72"
+},
+{
+  "name": "Áo Real Madrid sân nhà mùa giải 16-17",
+  "description": "",
+  "price": 300000,
+  "images": [
+    "Club/Real/Real_16-17_Home.JPG"
+  ],
+  "quantity": 10,
+  "team": "e7059411-8710-4daa-9f8e-feefcb5efa72"
+},
+{
+  "name": "Áo Real Madrid sân nhà mùa giải 98-00",
+  "description": "",
+  "price": 300000,
+  "images": [
+    "Club/Real/Real_98-00_Home.JPG"
+  ],
+  "quantity": 10,
+  "team": "e7059411-8710-4daa-9f8e-feefcb5efa72"
+},
+{
+  "name": "Áo Sporting Lisbon phiên bản Ronaldo sân nhà mùa giải 02-03",
+  "description": "",
+  "price": 300000,
+  "images": [
+    "Club/Sporting/Sporting_0203_Home_1.jpg",
+    "Club/Sporting/Sporting_0203_Home_2.jpg"
+  ],
+  "quantity": 10,
+  "team": "9b51443a-1bf3-4b60-b970-34fa2fedcbd7"
+},
+{
+  "name": "Áo Tottenham sân nhà mùa giải 94-95",
+  "description": "",
+  "price": 300000,
+  "images": [
+    "Club/Tottenham/TOT_94-95_Home.JPG"
+  ],
+  "quantity": 10,
+  "team": "d8c0d210-299e-4631-b625-c931d74cf9a6"
+},
+{
+  "name": "Áo tuyển Pháp sân khách mùa giải 06",
+  "description": "",
+  "price": 300000,
+  "images": [
+    "National/FRANCE/FRA_06_Away.JPG"
+  ],
+  "quantity": 10,
+  "team": "dafe637f-288e-47b3-b78a-5380dbc6df66"
+},
+{
+  "name": "Áo tuyển Đức sân nhà mùa giải 90",
+  "description": "",
+  "price": 300000,
+  "images": [
+    "National/Germany/Ger_1990_Home.JPG"
+  ],
+  "quantity": 10,
+  "team": "9c066ded-9de5-4cbd-9d5a-89b1ea08465e"
+},
+{
+  "name": "Áo tuyển Bồ Đào Nha sân khách mùa giải 16",
+  "description": "Vô địch euro",
+  "price": 300000,
+  "images": [
+    "National/Portugal/Por-2016_Away.png"
+  ],
+  "quantity": 10,
+  "team": "75ff3184-907e-4b75-b8f5-c636bdabf28a"
+},
+{
+  "name": "Áo tuyển Bồ Đào Nha sân khách mùa giải 12",
+  "description": "",
+  "price": 300000,
+  "images": [
+    "National/Portugal/Por_2012_Away.JPG"
+  ],
+  "quantity": 10,
+  "team": "75ff3184-907e-4b75-b8f5-c636bdabf28a"
+},
+{
+  "name": "Áo tuyển Bồ Đào Nha sân nhà mùa giải 12",
+  "description": "",
+  "price": 300000,
+  "images": [
+    "National/Portugal/Por_2012_home.JPG"
+  ],
+  "quantity": 10,
+  "team": "75ff3184-907e-4b75-b8f5-c636bdabf28a"
+},
+{
+  "name": "Áo tuyển Scotland phiên bản kỷ niệm năm 2023",
+  "description": "",
+  "price": 300000,
+  "images": [
+    "National/Scotland/Scotland_23_Other.png"
+  ],
+  "quantity": 10,
+  "team": "a8bd06e7-ebce-4680-96b3-016b4f6d983f"
+}]

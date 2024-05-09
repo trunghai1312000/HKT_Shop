@@ -1,0 +1,128 @@
+[{
+  "name": "Manchester United",
+  "type": "Club"
+},
+{
+  "name": "Sproting Lisbon",
+  "type": "Club"
+},
+{
+  "name": "AC Milan",
+  "type": "Club"
+},
+{
+  "name": "Inter Milan",
+  "type": "Club"
+},
+{
+  "name": "Real Madrid",
+  "type": "Club"
+},
+{
+  "name": "Atletico Madrid",
+  "type": "Club"
+},
+{
+  "name": "Bayern Munich",
+  "type": "Club"
+},
+{
+  "name": "Paris Saint-Germain",
+  "type": "Club"
+},
+{
+  "name": "Manchester City",
+  "type": "Club"
+},
+{
+  "name": "Borussia Dortmund",
+  "type": "Club"
+},
+{
+  "name": "Tottenham Hotspur",
+  "type": "Club"
+},
+{
+  "name": "Arsenal",
+  "type": "Club"
+},
+{
+  "name": "Chelsea",
+  "type": "Club"
+},
+{
+  "name": "Juventus",
+  "type": "Club"
+},
+{
+  "name": "Liverpool",
+  "type": "Club"
+},
+{
+  "name": "Barcelona",
+  "type": "Club"
+},
+{
+  "name": "France",
+  "type": "National Team"
+},
+{
+  "name": "Vietnam",
+  "type": "National Team"
+},
+{
+  "name": "Korea",
+  "type": "National Team"
+},
+{
+  "name": "Japan",
+  "type": "National Team"
+},
+{
+  "name": "Scotland",
+  "type": "National Team"
+},
+{
+  "name": "Croatia",
+  "type": "National Team"
+},
+{
+  "name": "Belgium",
+  "type": "National Team"
+},
+{
+  "name": "Portugal",
+  "type": "National Team"
+},
+{
+  "name": "Uruguay",
+  "type": "National Team"
+},
+{
+  "name": "England",
+  "type": "National Team"
+},
+{
+  "name": "Netherlands",
+  "type": "National Team"
+},
+{
+  "name": "Spain",
+  "type": "National Team"
+},
+{
+  "name": "Italy",
+  "type": "National Team"
+},
+{
+  "name": "Germany",
+  "type": "National Team"
+},
+{
+  "name": "Argentina",
+  "type": "National Team"
+},
+{
+  "name": "Brazil",
+  "type": "National Team"
+}]

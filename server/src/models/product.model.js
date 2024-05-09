@@ -30,7 +30,7 @@ const productSchema = new Schema({
         required: true
     },
     team: {
-        type: Schema.Types.ObjectId,
+        type: String,
         ref: 'Team'
     }
 }, {
