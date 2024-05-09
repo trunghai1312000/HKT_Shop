@@ -1,11 +1,16 @@
 'use-strict'
 
 const {model, Schema, Types} = require('mongoose')
+const { v4: uuidv4 } = require('uuid');
 
 const DOCUMENT_NAME='Product'
 const COLLECTION_NAME = 'Products'
 
-const productSchema = new mongoose.Schema({
+const productSchema = new Schema({
+    _id: {
+        type: String,
+        default: uuidv4
+    },
     name: {
         type: String,
         required: true

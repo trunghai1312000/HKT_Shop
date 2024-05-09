@@ -1,0 +1,14 @@
+@url_dev=http://localhost:3456/v1/api/
+
+### Create Team
+POST {{url_dev}}/team/create
+Content-Type: application/json
+
+{
+    "name":"Brazil",
+    "type":"National Team"
+} 
+
+### Get One Team
+GET {{url_dev}}/team/ee8ff018-eb33-45cb-9174-d203dc2875c4
+Content-Type: application/json

@@ -1,11 +1,11 @@
 "use strict";
 
-const  ProductService = require("../services/product.service");
+const  TeamService = require("../services/team.service");
 const { OK, CREATED } = require("../core/success.response");
 
 class TeamController {
     async getAllTeam(req, res) {
-        const data = await ProductService.getAllTeam();
+        const data = await TeamService.getAllTeam();
         
         new OK({
             message: "Get all team successfully",
@@ -14,7 +14,7 @@ class TeamController {
     }
 
     async getOneTeam(req, res) {
-        const data = await ProductService.getOneTeam(req.params.id);
+        const data = await TeamService.getOneTeam(req.params.id);
         
         new OK({
             message: "Get one team successfully",
@@ -23,7 +23,7 @@ class TeamController {
     }
 
     async createTeam(req, res) {
-        const data = await ProductService.createTeam(req.body);
+        const data = await TeamService.createTeam(req.body);
         
         new CREATED({
             message: "Create team successfully",
@@ -32,7 +32,7 @@ class TeamController {
     }
 
     async updateTeam(req, res) {
-        const data = await ProductService.updateTeam(req.params.id, req.body);
+        const data = await TeamService.updateTeam(req.params.id, req.body);
         
         new OK({
             message: "Update team successfully",
@@ -41,7 +41,7 @@ class TeamController {
     }
 
     async deleteTeam(req, res) {
-        const data = await ProductService.deleteTeam(req.params.id);
+        const data = await TeamService.deleteTeam(req.params.id);
         
         new OK({
             message: "Delete team successfully",
